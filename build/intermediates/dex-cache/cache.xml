@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Rich\Desktop\Web Projects\AndroidStudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-4627e4128de34ff20b02eca68317799b070f6fd2.jar"
+        jar="C:\Users\Rich\Desktop\Web Projects\Android Studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="C:\Users\Rich\Desktop\Web Projects\AndroidStudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\support-v13-19.0.1-a33ede414982a7d5cddcff77e1198e8d95197ad4.jar"
+        jar="C:\Users\Rich\Desktop\Web Projects\Android Studio\sdk\extras\android\m2repository\com\android\support\support-v13\19.0.1\support-v13-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a4d00c1fa39c05a544fc2221af40bbf76e07c7df"/>
+    <item
+        dex="C:\Users\Rich\Desktop\Web Projects\AndroidStudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\commons-io-2.4-ccc0bb04b8481e821cbda1ba3ef9825b92ba10b4.jar"
+        jar="C:\Users\Rich\Desktop\Web Projects\AndroidStudioProjects\mememaker\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+
+</pre-dex-items>
